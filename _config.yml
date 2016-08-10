@@ -1,4 +1,4 @@
-typography_spectrum: 0.22148397308774292
+typography_spectrum: 0.3744625055696815
 color:
   brandStrength: 0.5374773470684886
   lightness: 0.7457575500011444
@@ -10,7 +10,7 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-layout_spectrum: 0.3382818785030395
+layout_spectrum: 0.43600594555027783
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e013563-91fd-4578-bfb4-ec53c075a099.png
 name: fullyfuller
