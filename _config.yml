@@ -1,4 +1,3 @@
-layout_spectrum: 0.3382818785030395
 typography_spectrum: 0.2640714291483164
 color:
   brandStrength: 0.24998940527439117
@@ -11,4 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.3382818785030395
 name: fullyfuller
+title: fully fuller
+description: create. share. repeat.
