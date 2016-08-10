@@ -1,0 +1,14 @@
+layout_spectrum: 0.3382818785030395
+typography_spectrum: 0.2640714291483164
+color:
+  brandStrength: 0.24998940527439117
+  lightness: 0.29753416730090976
+  saturation: 0.55502261640504
+  rhythmicContrast: 0.8749125238973647
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: fullyfuller
