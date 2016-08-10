@@ -1,15 +1,15 @@
-typography_spectrum: 0.2640714291483164
+typography_spectrum: 0.22148397308774292
 color:
-  brandStrength: 0.24998940527439117
-  lightness: 0.29753416730090976
-  saturation: 0.55502261640504
-  rhythmicContrast: 0.8749125238973647
+  brandStrength: 0.5374773470684886
+  lightness: 0.7457575500011444
+  saturation: 0.8905117609538138
+  rhythmicContrast: 0.972991039743647
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 layout_spectrum: 0.3382818785030395
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e013563-91fd-4578-bfb4-ec53c075a099.png
